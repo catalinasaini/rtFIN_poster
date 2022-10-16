@@ -1,5 +1,4 @@
 # rtFIN_poster
-Bibliographic references and annexes for rtFIN 2022 poster.
 
 (EN) We aim to assess consciousness in wakefulness, deep sedation, and intermediate levels 
 through biomarkers of electrical and hemodynamical brain activity using a synchronized EEG and fNIRS system 
