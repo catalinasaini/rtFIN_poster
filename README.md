@@ -1,27 +1,23 @@
 # rtFIN_poster
 
-(EN) We aim to assess consciousness in wakefulness, deep sedation, and intermediate levels 
-through biomarkers of electrical and hemodynamical brain activity using a synchronized EEG and fNIRS system 
-during a surgical procedure (colonoscopy and endoscopy) under the anesthetic propofol.
+(EN) We aim to assess consciousness in wakefulness, deep sedation, and intermediate levels through biomarkers of electrical and hemodynamical brain activity using a synchronized EEG and fNIRS system during a surgical procedure (colonoscopy and endoscopy) under the anesthetic propofol.
 
 
-(ES) El objetivo de estro proyecto es detectar la conciencia de vigilia, la sedación profunda y los niveles intermedios 
-a través de biomarcadores de actividad cerebral eléctrica y hemodinámica utilizando un sistema de EEG y fNIRS sincronizado 
-durante un procedimiento quirúrgico (colonoscopia y endoscopia) bajo el anestésico propofol.
+(ES) El objetivo de estro proyecto es detectar la conciencia de vigilia, la sedación profunda y los niveles intermedios a través de biomarcadores de actividad cerebral eléctrica y hemodinámica utilizando un sistema de EEG y fNIRS sincronizado durante un procedimiento quirúrgico (colonoscopia y endoscopia) bajo el anestésico propofol.
 
-##Images
+# Files and figures
 
 * Poster presentation for the (rtFIN2022 Yale University in New Haven, Connecticut, USA. October 17 - 21, 2022)[https://rtfin2022.squarespace.com/]
 * Poster - Figure 1: Material and methods
 * Poster - Figure 2: Classifier - F1
 
-#Supplementary material
+## Supplementary material
 
 * Confussion matrix
 * Topomap fNIRS
 * Topomap EEG
 
-##Equipment
+# Equipment
 
 *	EEG:	Neuroscan; Ag/AgCl electrodes. 
  
