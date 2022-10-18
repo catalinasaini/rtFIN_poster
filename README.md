@@ -1,8 +1,8 @@
 # rtFIN_poster
 
-(EN) We aim to assess consciousness in wakefulness, deep sedation, and intermediate levels through biomarkers of electrical and hemodynamical brain activity using a synchronized EEG and fNIRS system during a surgical procedure (colonoscopy and endoscopy) under the anesthetic propofol.
+(EN) We aim to assess consciousness in wakefulness, deep sedation, and intermediate levels through biomarkers of electrical and hemodynamical brain activity using a synchronized EEG and fNIRS system during a surgical procedure (colonoscopy and endoscopy) under only propofol anesthesia.
 
-(ES) El objetivo de estro proyecto es detectar la conciencia de vigilia, la sedación profunda y los niveles intermedios a través de biomarcadores de actividad cerebral eléctrica y hemodinámica utilizando un sistema de EEG y fNIRS sincronizado durante un procedimiento quirúrgico (colonoscopia y endoscopia) bajo el anestésico propofol.
+(ES) El objetivo de este proyecto es detectar la conciencia en vigilia, sedación profunda y niveles intermedios a través de biomarcadores de actividad cerebral eléctrica y hemodinámica utilizando un sistema de EEG y fNIRS sincronizado durante un procedimiento quirúrgico (colonoscopia y endoscopia) bajo anestesia con solo propofol.
 
 # Files and figures
 
@@ -26,13 +26,14 @@ Since we believe in open-source science, we are working with the Python library 
 
 # Bibliographic References
 
-1.	Alkire MT, Hudetz AG, Tononi G. Consciousness and anesthesia. Science. 2008 Nov 7;322(5903):876-80. doi: 10.1126/science.1149213. 
-2. Davidson AJ. Anesthesia and neurotoxicity to the developing brain: the clinical relevance. Paediatr Anaesth. 2011 Jul;21(7):716-21.
-3. Sebel PS, Bowdle TA, Ghoneim MM, Rampil IJ, Padilla RE, Gan TJ, Domino KB. The incidence of awareness during anesthesia: a multicenter United States study. Anesth Analg. 2004 
-4. Xie et al., 2011
+1. Alkire, Michael T, Hudetz, A. G., & Tononi, G. (2008). Consciousness and anesthesia. Science, 322(5903), 876–880. https://doi.org/10.1126/science.1149213
+2. Davidson, A. J. (2011). Anesthesia and neurotoxicity to the developing brain: the clinical relevance. Paediatric Anaesthesia, 21(7), 716–721. https://doi.org/10.1111/j.1460-9592.2010.03506.x
+3. Sebel, P. S., Bowdle, T. A., Ghoneim, M. M., Rampil, I. J., Padilla, R. E., Gan, T. J., & Domino, K. B. (2004). The incidence of awareness during anesthesia: a multicenter United States study. Anesthesia and Analgesia, 99(3), 833–839. https://doi.org/10.1213/01.ANE.0000130261.90896.6C
+4. Xie, G., Deschamps, A., Backman, S. B., Fiset, P., Chartrand, D., Dagher, A., & Plourde, G. (2011). Critical involvement of the thalamus and precuneus during restoration of consciousness with physostigmine in humans during propofol anaesthesia: a positron emission tomography study. British Journal of Anaesthesia, 106(4), 548-557. https://doi.org/10.1093/bja/aeq415
 
 # Contact
-Feel free to submit or comment on any issues to the repository.
+Feel free to submit or comment on any issues of this repository.
+
 We are currently looking for new systems to work with and upgrade our hybrid ("DIY") system to detect levels of consciousness during anesthesia.
 
 IF YOU WISH TO SUPPORT US, please contact any of the authors:
