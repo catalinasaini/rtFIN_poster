@@ -2,14 +2,13 @@
 
 (EN) We aim to assess consciousness in wakefulness, deep sedation, and intermediate levels through biomarkers of electrical and hemodynamical brain activity using a synchronized EEG and fNIRS system during a surgical procedure (colonoscopy and endoscopy) under the anesthetic propofol.
 
-
 (ES) El objetivo de estro proyecto es detectar la conciencia de vigilia, la sedación profunda y los niveles intermedios a través de biomarcadores de actividad cerebral eléctrica y hemodinámica utilizando un sistema de EEG y fNIRS sincronizado durante un procedimiento quirúrgico (colonoscopia y endoscopia) bajo el anestésico propofol.
 
 # Files and figures
 
-* Poster presentation for the (rtFIN2022 Yale University in New Haven, Connecticut, USA. October 17 - 21, 2022)[https://rtfin2022.squarespace.com/]
-* Poster - Figure 1: Material and methods
-* Poster - Figure 2: Classifier - F1
+* Poster presentation for the Real-Time Functional Imaging and Neurofeedback meeting (rtFIN2022) at Yale University in New Haven, Connecticut, USA. October 17 - 21, 2022 [https://rtfin2022.squarespace.com/].
+* Poster - Figure 1: Methods
+* Poster - Figure 2: Classifier - F1 score
 
 ## Supplementary material
 
@@ -19,24 +18,24 @@
 
 # Equipment
 
-*	EEG:	Neuroscan; Ag/AgCl electrodes. 
- 
-*	fNIRS: NIRSport1, 8 emitters, 8 detectors optodes.
+*	EEG:	Neuroscan; active Ag/AgCl electrodes. 
+*	fNIRS: NIRSport1; 8 emitters, 8 detectors optodes.
 
 # Software
 Since we believe in open-source science, we are working with the Python library [MNE-Python](https://mne.tools/stable/index.html)
 
 # Bibliographic References
 
-1.-	Alkire MT, Hudetz AG, Tononi G. Consciousness and anesthesia. Science. 2008 Nov 7;322(5903):876-80. doi: 10.1126/science.1149213. 
-2.-	Davidson AJ. Anesthesia and neurotoxicity to the developing brain: the clinical relevance. Paediatr Anaesth. 2011 Jul;21(7):716-21.
-3.-	Sebel PS, Bowdle TA, Ghoneim MM, Rampil IJ, Padilla RE, Gan TJ, Domino KB. The incidence of awareness during anesthesia: a multicenter United States study. Anesth Analg. 2004 
-4.-	Xie et al., 2011
+1.	Alkire MT, Hudetz AG, Tononi G. Consciousness and anesthesia. Science. 2008 Nov 7;322(5903):876-80. doi: 10.1126/science.1149213. 
+2. Davidson AJ. Anesthesia and neurotoxicity to the developing brain: the clinical relevance. Paediatr Anaesth. 2011 Jul;21(7):716-21.
+3. Sebel PS, Bowdle TA, Ghoneim MM, Rampil IJ, Padilla RE, Gan TJ, Domino KB. The incidence of awareness during anesthesia: a multicenter United States study. Anesth Analg. 2004 
+4. Xie et al., 2011
 
+# Contact
 Feel free to submit or comment on any issues to the repository.
 We are currently looking for new systems to work with and upgrade our hybrid ("DIY") system to detect levels of consciousness during anesthesia.
 
 IF YOU WISH TO SUPPORT US, please contact any of the authors:
 *	Catalina Saini (catalina.saini@uc.cl) (https://github.com/catalinasaini)
-*	Carlos Valle (cgvalle@uc.cl) (https://github.com/carlosvallea)
+*	Carlos Valle (cgvalle@uc.cl) (https://github.com/CarlosValleA)
 *	Gabriela Vargas (givargas@uc.cl) (https://github.com/galadriana)
