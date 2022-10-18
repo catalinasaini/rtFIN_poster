@@ -9,7 +9,7 @@ during a surgical procedure (colonoscopy and endoscopy) under the anesthetic pro
 a través de biomarcadores de actividad cerebral eléctrica y hemodinámica utilizando un sistema de EEG y fNIRS sincronizado 
 durante un procedimiento quirúrgico (colonoscopia y endoscopia) bajo el anestésico propofol.
 
-#Images
+##Images
 
 * Poster presentation for the (rtFIN2022 Yale University in New Haven, Connecticut, USA. October 17 - 21, 2022)[https://rtfin2022.squarespace.com/]
 * Poster - Figure 1: Material and methods
@@ -21,14 +21,14 @@ durante un procedimiento quirúrgico (colonoscopia y endoscopia) bajo el anesté
 * Topomap fNIRS
 * Topomap EEG
 
-#Equipment
+##Equipment
 
-*	EEG:	Easycap neuroscan; Ag/AgCl electrodes. 
+*	EEG:	Neuroscan; Ag/AgCl electrodes. 
  
-*	fNIRS:  NIRSport 1,  8 emission 8 detectors channels.
+*	fNIRS: NIRSport1, 8 emitters, 8 detectors optodes.
 
 # Software
-Since we believe in open-source science, we are working with the Python library: [MNE-Python](https://mne.tools/stable/index.html)
+Since we believe in open-source science, we are working with the Python library [MNE-Python](https://mne.tools/stable/index.html)
 
 # Bibliographic References
 
@@ -38,9 +38,9 @@ Since we believe in open-source science, we are working with the Python library:
 4.-	Xie et al., 2011
 
 Feel free to submit or comment on any issues to the repository.
-We are currently looking for new systems to work with and upgrade our hybrid (homemade) system to detect levels of consciousness.
-IF YOU WANT TO SUPPORT US, please contact any of the authors:
+We are currently looking for new systems to work with and upgrade our hybrid ("DIY") system to detect levels of consciousness during anesthesia.
 
-*	Catalina Saini (catalina.saini@uc.cl) (https://github.com/)
-*	Carlos Valle (cgvalle@uc.cl) (https://github.com/)
+IF YOU WISH TO SUPPORT US, please contact any of the authors:
+*	Catalina Saini (catalina.saini@uc.cl) (https://github.com/catalinasaini)
+*	Carlos Valle (cgvalle@uc.cl) (https://github.com/carlosvallea)
 *	Gabriela Vargas (givargas@uc.cl) (https://github.com/galadriana)
