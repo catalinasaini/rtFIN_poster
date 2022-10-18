@@ -1,4 +1,4 @@
-# rtFIN_poster
+# rtFIN Poster Information
 
 (EN) We aim to assess consciousness in wakefulness, deep sedation, and intermediate levels through biomarkers of electrical and hemodynamical brain activity using a synchronized EEG and fNIRS system during a surgical procedure (colonoscopy and endoscopy) under only propofol anesthesia.
 
