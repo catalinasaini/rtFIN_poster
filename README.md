@@ -4,6 +4,7 @@
 
 (ES) El objetivo de este proyecto es detectar la conciencia en vigilia, sedación profunda y niveles intermedios a través de biomarcadores de actividad cerebral eléctrica y hemodinámica utilizando un sistema de EEG y fNIRS sincronizado durante un procedimiento quirúrgico (colonoscopia y endoscopia) bajo anestesia con solo propofol.
 
+
 # Files and figures
 
 * Poster presentation for the Real-Time Functional Imaging and Neurofeedback meeting (rtFIN2022) at Yale University in New Haven, Connecticut, USA. October 17 - 21, 2022 [https://rtfin2022.squarespace.com/].
