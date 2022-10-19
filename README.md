@@ -12,11 +12,6 @@
 * Poster - Figure 1: Methods
 * Poster - Figure 2: Classifier - F1 score
 
-## Supplementary material
-
-* Confussion matrix
-* Topomap fNIRS
-* Topomap EEG
 
 # Equipment
 
@@ -24,7 +19,7 @@
 *	fNIRS: NIRSport1; 8 emitters, 8 detectors optodes.
 
 # Software
-Since we believe in open-source science, we are working with the Python library [MNE-Python](https://mne.tools/stable/index.html)
+we are working with the Python library [MNE-Python](https://mne.tools/stable/index.html)
 
 # Bibliographic References
 
